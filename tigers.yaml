@@ -1,6 +1,5 @@
 team: Tigers
 
-manager: Kenneth
 manager: Deborah
 
 coach: Grace
@@ -10,3 +9,4 @@ members:
   - William
   - David
   - George
+  - Tyler
